@@ -1,0 +1,507 @@
+GET http://suggestion.baidu.com/su?wd=w&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=ww&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.h&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.hi&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.hit&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.hit.&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.hit.e&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.hit.ed&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.hit.edu&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.hit.edu.&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.hit.edu.c&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=www.hit.edu.cn&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://www.hit.edu.cn/ HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2
+
+GET http://www.hit.edu.cn/css2010/style.css?123 HTTP/1.1GET http://www.hit.edu.cn/css2010/layout.css?123 HTTP/1.1GET http://www.hit.edu.cn/js/ajax.js HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+Host: www.h
+it.edu.cn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66P.0.3359.11ro7xy-Connection: keep-alive
+User-Agent: Mozilla/5.0  S(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.33a59.117 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Reffarerer: http://www.hit.edu.icn/
+Accept-En/537.36
+Accept: text/ccoding: gszip, deflate
+Acce
+Host: pt-Language: zh-CN,zh;q=0.9s
+Cookie: _ga=GA1.3.552187814.1501989050; __u,*/*;q=0.1
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gtzip, deflate
+Accept-Language: zh-CNm,z=w31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utzmh;q=0.9
+Cookie: _gaa=319=16071.97488GA1w.3.552187w83321.1525526423.1525526423.1525533286.2
+
+14.150.19hit.edu.cn
+P89050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.r1525526423.1525533286.2
+
+oxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: */*
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2
+
+GET http://www.hit.edu.cn/images2010/potu.png HTTP/1.1GET http://www.hit.edu.cn/js/siteAD.htm HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connect
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Cihorno: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Wme/66.0.3359.in64; x64)117 Safari Ap/537.36pleWebKit
+Ac/537.36 (KHTML,cep like t: Gectextko) /html,Chromeapp/66.0.lic3359ation/xhtml+.117 Sxmlafari/,applicat537ion/xm.36l;q=0.9,image/
+Acwebceptp,: iimamagege/a/wepng,*/*;qbp,=0.8
+imaReferege/ar:png http:,im//www.hit.eduage.cn/*,*/*;q=0/
+Accept.8
+Re-Enfercodinger:: gzip http:, d//www.eflatehit
+A.edu.cccept-Lan/
+Accept-Encodinguang:ge: zh-CN,zh; gzq=0ip,.9
+Cookie: _ga=GA1.3.55218781 def4.15019890late50; 
+Ac__utceptmz=31-L9anguage1: zh6071-CN,z.152h;q=5526423.1.1.utmccn=(direct)|utmcsr=(direc0.t9)
+Cookie: _ga=|GA1.3.552187814.1501989050; utm__utmz=31916071c.152552642md=(3.1.1.none); utmc__utcn=(dima=3rec191t)|6071.9utm748csr=(dire83321.ct)152552|utmcm6423d=(.15255non26423.1525e); __ut533286.2
+ma=31916071.974
+883321.1525526423.1525526423.1525533286.2
+
+GET http://www.hit.edu.cn/js/siteAD.psp HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2
+
+GET http://www.hit.edu.cn/js2010/topMenu.js HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/5G37.36
+AEccGeEpTt :h t*t/pT:*
+Referer: http://www.hit.edu.cn/
+Ac/cept-Encoding: gzip, /www.hit.edu.hcttn/j spd:/e/flate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.15019m8/905w0ewn; __utmz=3191u6.wj071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct.)|utmcmd=(none); __utma=31916071.hs9i74883321.1525526423.1525526423.1525533286.2; JSESSIO tN.HeITdTDPu/=72627A3BBC3733DDAA41FF467C0622A7
+
+1..c1n/js/topImgAD.js HTTP/1.1GET http://www.hit.edu.cn/images2010/hui.jpg HTTP/1.1GET http://www.hit.edu.cn/images2010/more.gif HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+
+CONNECT docs.oracle.com:443 HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit
+Ho
+Host:/53st: www.h www.hi7.36 (t.edu.KHTcnML,it.edu li.cnke Gecko
+Pr) C
+Poxyhroroxy-Cme/66.0.3359.117 Safari/537.36
+Accept: image/webp,imaonnege/apnctig,imag-on: keCep-aeonne/*,*ctilive
+on: User-Akee/genp-a*;qt: Ml=0.8iveo
+Refezilla/rer5.0 (: htWindtp:/
+Usowse/wwwr-A.hit.e gent: MozNT 1illa/50.0d.0 (Win; Widowu.cn/s Nn
+AcT 164;0cep.0; Wi x6t-En4) AppleWebK64;ncoit/537din x6.36g: gzi 4) A(KHpppleWebKit/537.36 (KHTML, like Geck, deo) Tflate
+AcceptML, li-LaCke Geckohrome/) Chro66.0.335ngu9.117 age:Safari zh-CN/53me/66.7.36
+Accept0.3,zh: */*;q=359.0.9
+C117
+Reookiferer: http://weww.: _g a=GA1Safa.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direhit.edu.ri/537.36
+Accept: */*
+Referect)|r: httutmcsr=cn/
+A(dirccepect)t-Encoding: gzip, deflat|utme
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _cga=md=(GA1.3none); __utma=31.552916187078141.9748p://ww833.w.h15021.1it.9890501edu.cn/
+Accept5255264; __ut23.-mz=Enco152319din516071.15255g: 526423gzi264.p12, defl.1.uate3.1525533
+Acc286.2;ept- JSELanguaSSIOge: NID=zh-tCN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525572627A3BBC3733DDAA41FF467C0622mccn=(direct)|utmcsr=(direct)|utmcm2642A7d=(none); __utm
+
+3.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)a;= __utma=3131916071916.90774883321.1525526421.974883321.1525526423.153.25526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0615255264223.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+
+2A7
+
+GET http://www.hit.edu.cn/js/menu.js HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: */*
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+
+GET http://8.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c02dd1f2-400a-4b61-a6ce-c683cdda6eGET ht8tp://www.hit.edu.cn/_js/jquery.easyui.min.js HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: */*
+Referer: http://www.hit.edu.cn/js/siteAD.psp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C00622A7
+Range: bytes=98144-98144
+If-Range: "7832b8-6a39e-55e0094dbd880"
+
+?P1=1525861075&P2=301&P3=2&P4=7jjRJG5Zh4mIcy633RAZTMrroPuFh864jrwvFun%2bdZE%3d HTTP/1.1GET http://www.hit.edu.cn/_js/jquery.easyui.min.js HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: */*
+Referer: http://www.hit.edu.cn/js/siteAD.psp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+Range: bytes=98144-435101
+If-Range: "7832b8-6a39e-55e0094dbd880"
+
+
+Cache-Control: no-cache
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Accept: */*
+Range: bytes=137363456-138412031
+User-Agent: Microsoft-Delivery-Optimization/10.0
+MS-CV: mI7rxJ/jUk2jRQ3J.0.3.2.4.1.0.23.2.3.24.1.5
+Content-Length: 0
+Host: 8.tlu.dl.delivery.mp.microsoft.com
+
+GET http://www.hit.edu.cn/images2010/more.gif HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+
+GET http://resource.hit.edu.cn/puGbElic2013/hrbATQ Ih.tjtps: //wwwH.ThTiPt/.1e.d1u.cn/images2010/ic.gif HTTP/1.1
+Hos
+Host: restource: www.h.hitit.e.eddu.u.ccn
+Proxy-Cn
+Ponnectiroxyon: -Conneckeetiop-an: live
+keeUsep-ar-Aglivente
+: MUserozilla-Ag/5.ent0 (: MoWinzilla/5.0dow (Windows NTs 10. NT 0; Win64; x10.064) ; WiAppln64;eWebKit/537.36 (KH x64TML,) Appl likeWebKite G/537.3eck6 (o) KHTML, Chrlike Gome/66.0.3359.117 Safari/537.36
+Acecko) Chrcepomet: /66.0.*/*335
+R9.117 Safari/efe537.36rer: h
+Attp://ccewwwpt: .hiimat.edu.ge/cn/webp,i
+Amageccept-/apEncng,odiimang:ge/ gzip,*,* de/*;flaq=0.8te
+Re
+Acferecepr: t-Languaghtte: zp:/h-CN,z/www.hit.h;qedu.cn=0./
+Accept9
+Coo-Enkie: _codingga=: gGA1.zip, deflate
+Acce3.5521878pt-14.Langua150ge:1989 zh050-CN; _,zh;q=0.9_ut
+Cmz=ook319160ie:71.152552642 _g3.1a=GA1.3..1.5521utmccn=(direct)87814.1501989050; __|utmcsr=(directutmz)|utmcmd=(non=319e);16071.1525 526_423.1.1.utmc_utma=cn=(di319160rect7)|u1.97488t3321mcs.15r=(2552642di3.1525526423.1re52553c3286t)|u.2tmcmd=
+
+(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+
+GET http://config.pinyin.sogou.com/components/time.php?usr=11A313C07A0CE4F89AE82733590F4839@qq.sohu.com&h=B3831F665F58AC006C342EFD4E460D21&v=8.9.0.2180&r=0000_sogou_pinyin_82f HTTP/1.1
+User-Agent: SOGOU_UPDATER
+Host: config.pinyin.sogou.com
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+POST http://get.sogou.com/q HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Host: get.sogou.com
+Content-Length: 611
+Pragma: no-cache
+Cookie: YYID=B3831F665F58AC006C342EFD4E460D21; QQ_Sogou_Openid=; IPLOC=CN2301; IMESKIN=1:C0F9A1FBBDF1E685F1CDA1A8B4EECE48; IMEVER=8.9.0.2180; IMESKINID=2:569438
+
+k=Oqju2YyhqT1TUKnkswfCHgwgD54Ha5MNyhPChTVeUZPLqB/KlQ3mLq5FS0H4SxiBdFeTZMnmz1uB8TJJ1IgodBD40h2ygve0+dnqmrViYI3FDpw+VHim8x5mgdUvfLAIiHpuAUoBgTnMv1MKBVNIuegr8yz2zQEiCDQhIxmcUN8=&v=fkCaUcf3/nZMwomqgP6Kbgbrk9qBqwC2R+M4pBiNfNCMD7/d5nNzUwz1xqSPpN4Gg/IbhRLRjkVd1mjv4CX3YqAcHQLOpMtVO9lX71tJqZMlWpiHNEt7m0aY5r/3Vt41OgSRR1EfzNu2/F0sCyd37DxEp3/wcX4/ETjNXmeeD6g=&u=wh0DTIE3w+9fbAxvO6WMjqdNmQ/BH87835cccRBMkzyjLGKkVPKjOiNL/bzymcCf&g=Qhbl7hxPR/W1C4UHlrZLSV3eR2ochd/x38lezbIlaVj9VCQHWDWrHWWDi7t9QVsx54uSHogfA8vrt5bzXjetw5kFBQ4fDx9G9EtQDCo/udxPZzd5d7uJ4wTzFL65JVYk4GCDRr9+hlbuIk0psqxISt257URmfwVPKTFsy0FQUIUnkf4G3q2rLnYcT+b0FQWQGET http://www.hit.edu.cn/images2010/more.gif HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+
+GET http://ping.pinGyEiTn .hstogou.cotmp://c/oncfoimgp.opniennyti.ng.isofg?ohu=.B3c8o3m1/Fc6o6m5pFo5n8eAnCt0s0/6uCp3d4a2tEeF.Dp4hEp4?6h0=DB238311&Fv6=685.F95.80A.C201086C03&4r2=E0F0D040E_4s6o0gDo2u1_&pvi=ny8i.n9_.802.f2&1t8t0=&crm=u0&0m0s0c_=s0o&gmouuc_=p0i&ntysicn0_=802&ft&uuct0p==01&&tbs0c=11=001&1t_u1c.10=.00&.l1r6=00& cH1T0T1P1/_10.=0&1b1=1012_1.1.0.282&c1012_0=0&b2=1010_1.1.0.1819&c1010_0=1&b3=1013_1.0.0.400&c1013_0=0&b4=1014_2.1.0.229&c1014_0=0&b5=1024_1.0.0.143&c1024_0=0 HTTP/1.1
+User-Agent: SogouComponentAgent
+Host: config.pinyin.sogou.com
+Pragma: no-cache
+Cookie: YYID=B3831F665F58AC006C342EFD4E460D21; QQ_Sogou_Openid=; IPLOC=CN2301; IMESKIN=1:C0F9A1FBBDF1E685F1CDA1A8B4EECE48; IMEVER=8.9.0.2180; IMESKINID=2:569438
+
+
+User-Agent: SogouComponentAgent
+Host: ping.pinyin.sogou.com
+Cookie: YYID=B3831F665F58AC006C342EFD4E460D21; QQ_Sogou_Openid=; IPLOC=CN2301; IMESKIN=1:C0F9A1FBBDF1E685F1CDA1A8B4EECE48; IMEVER=8.9.0.2180; IMESKINID=2:569438
+
+GET http://ping.pinyin.sogou.com/component.gif?h=B3831F665F58AC006C342EFD4E460D21&v=8.9.0.2180&r=0000_sogou_pinyin_82f&t=PicFaceComBundle&ver=1.1.0.1819&owpf=26&spt=0&opf=0&pics=%5B%7B80%3A0%7D%2C%7B77%3A0%7D%2C%7B79%3A0%7D%2C%7B78%3A0%7D%2C%7B2%3A0%7D%5D&pici=%5B%7B80%3A0%7D%2C%7B77%3A0%7D%2C%7B79%3A0%7D%2C%7B78%3A0%7D%2C%7B2%3A0%7D%5D&fcs=0&nfcs=0&sptq=0&owq=0&owr=0&pss=0&hqq=1&cps=0&cpcs=0&cpbu=0&cpop=0&ofc=0&ofb=0&cm=0&ts=0&stp=0&oftb=0&chl=0&rct=0&oftbe=0&oftbdl=0&oftbds=0&oftbc=0&oftbpp=0&stpc=0&stpml=0&stpab=0&stpac=0&stpmn=0&stpst=0&tcpn=0&ipn=0&cbcn=0&dip=0&dcp=0&cpsf=0&cpcsf=0&cpbuf=0&cpopf=0&qlsfp=0 HTTP/1.1
+User-Agent: SogouComponentAgent
+Host: ping.pinyin.sogou.com
+Cookie: YYID=B3831F665F58AC006C342EFD4E460D21; QQ_Sogou_Openid=; IPLOC=CN2301; IMESKIN=1:C0F9A1FBBDF1E685F1CDA1A8B4EECE48; IMEVER=8.9.0.2180; IMESKINID=2:569438
+
+GET http://account.sogou.com/act/authtoken?appid=1044&userid=11A313C07A0CE4F89AE82733590F4839@qq.sohu.com&token=SGb09iaOyI3g8tCkyEic70x8JBQv9xIWE55svibuicavKOClcSy1srnARsLOHzHuUY3qxwUmFB3qDqydqgpqTgSuO5Rg&ts=1402705261&livetime=0&authtype=3&ru=http://profile.pinyin.sogou.com/ HTTP/1.1GET http://GcEoTn hftitgp.:p/i/ndyoiGwEnnTl. oshoagtdot.pp:u/i./cnocymoi/nnpf.iigsc.foapgcioneyu/.iinc.notsemo/rpgfiaoccue.fc/oamSc/opeg/iocifunatCecerlelf/aMcaipn.tpehepr/f?atcihp=eBl3i8s/t3c.e1plFlh6_6pu?5pFdha5t=8eABC3_0y8u0361nFC6.364p25EhFp5?8fFAlDC40a0Eg466=0C1D32&1h4=&2BvE=38F.8D3914F.6E06.54F26105D8820A&1r&C=v0000=086.C30_so4g2EFD9.04oEu4_p6i0nD.2211y&8iv0n=&8r_=80.209f.00&0.v2_1e8s0r&or=g=1o.0u10_0.0p_0is.ong1oyui8n_1_p892i&fnM&ayvipenMrd_=8521=f.&51v5.e02.r1=31841.591&cT0i.pa0L3i8.ds1bt08dI17df96=&9a2c4 febl3lH5i9dT0=Tb5Pa5/81275.c1362 0H|T5T8P/1.150443|4998468&cellver=0|20170401|0 HTTP/1.1
+User-Agent: SogouComponentAgent
+Ho
+User-Agst: ceonfint: Sogog.puCoinympoin.sonentAgentgou
+Host:.com confi
+Pg.pinyragin.ma: no-cachesogou.
+Ccoookie: Ym
+PrYIDagma: no-cache
+Coo=B3831F665Fkie58AC006C342: YEFDYID4E4=B360D21; 831QQ_Sogou_OpeF66nid5F5=; 8ACIPL006C342EOC=FD4CN2E463010D2; I1; MESQQ_KINSog=1:ou_C0FOpe9A1nidFBBDF1E685F1CDA=; 1A8IPLB4EOC=CN2ECE48; IME301VER; I=8.MESKIN9.0=1:.21C0F80;9A1 IMFBBDF1ESKE68INID=25F1:56CDA9431A8
+8B4EECE48; IM
+EVER=8.9.0.2180; IMESKINID=2:569438
+
+
+User-Agent: sogou_ime/8.9.0.2180
+Host: account.sogou.com
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+
+
+User-Agent: SogouComponentAgent
+Host: download.pinyin.sogou.com
+Pragma: no-cache
+Cookie: YYID=B3831F665F58AC006C342EFD4E460D21; QQ_Sogou_Openid=; IPLOC=CN2301; IMESKIN=1:C0F9A1FBBDF1E685F1CDA1A8B4EECE48; IMEVER=8.9.0.2180; IMESKINID=2:569438
+
+GET http://download.pinyin.sogou.com/picface/interface/cellupdate.php?h=B3831F665F58AC006C342EFD4E460D21&v=8.9.0.2180&r=0000_sogou_pinyin_82f&ver=1.1.0.1819&cellid=80|77|79|78|2&cellver=5|4|2|4|4 HTTP/1.1
+User-Agent: SogouComponentAgent
+Host: download.pinyin.sogou.com
+Pragma: no-cache
+Cookie: YYID=B3831F665F58AC006C342EFD4E460D21; QQ_Sogou_Openid=; IPLOC=CN2301; IMESKIN=1:C0F9A1FBBDF1E685F1CDA1A8B4EECE48; IMEVER=8.9.0.2180; IMESKINID=2:569438
+
+GET http://config.pinyin.sogou.com/picface/interface/CandBlackList.php?h=B3831F665F58AC006C342EFD4E460D21&v=8.9.0.2180&r=0000_sogou_pinyin_82f&ver=1.1.0.1819&IniVer=9 HTTP/1.1
+User-Agent: SogouComponentAgent
+Host: config.pinyin.sogou.com
+Pragma: no-cache
+Cookie: YYID=B3831F665F58AC006C342EFD4E460D21; QQ_Sogou_Openid=; IPLOC=CN2301; IMESKIN=1:C0F9A1FBBDF1E685F1CDA1A8B4EECE48; IMEVER=8.9.0.2180; IMESKINID=2:569438
+
+GET http://ping.pinyin.sogou.com/component.gif?h=B3831F665F58AC006C342EFD4E460D21&v=8.9.0.2180&r=0000_sogou_pinyin_82f&t=skinboxBundle&ver=1.0.0.400 HTTP/1.1
+User-Agent: SogouComponentAgent
+Host: ping.pinyin.sogou.com
+Cookie: YYID=B3831F665F58AC006C342EFD4E460D21; QQ_Sogou_Openid=; IPLOC=CN2301; IMESKIN=1:C0F9A1FBBDF1E685F1CDA1A8B4EECE48; IMEVER=8.9.0.2180; IMESKINID=2:569438
+
+GET http://www.hit.edu.cn/images2010/more.gif HTTP/1.1GET http://account.sogou.com/act/setppcookie?ppinf=5|1525855366|1527064966|dHJ1c3Q6MToxfGNsaWVudGlkOjQ6MTA0NHx1bmlxbmFtZTozMjoxMUEzMTNDMDdBMENFNEY4OUFFODI3MzM1OTBGNDgzOXxjcnQ6MTA6MTUyNTg1NTM2NnxyZWZuaWNrOjA6fHVzZXJpZDo0NDoxMUEzMTNDMDdBMENFNEY4OUFFODI3MzM1OTBGNDgzOUBxcS5zb2h1LmNvbXw&pprdig=V1XZsPtwx8hgwzYqJq_PGPkajrYwNzwUIX5JpZ2Kxi4W3sm32Et2PVjqcTy0JWMYxMlcOHWQ92FFzF49Yg81x7kF_rguHDu60Up5IkK_FGyRcX5Umllq5hKcQuHSeko2dxku0kUjxVPmbHzVQ8Mr5v2et6n9zt0hmwPfrb-VZI4&passport=5|1525855366|1527064966|dHJ1c3Q6MToxfGNsaWVudGlkOjQ6MTA0NHx1bmlxbmFtZTozMjoxMUEzMTNDMDdBMENFNEY4OUFFODI3MzM1OTBGNDgzOXxjcnQ6MTA6MTUyNTg1NTM2NnxyZWZuaWNrOjA6fHVzZXJpZDo0NDoxMUEzMTNDMDdBMENFNEY4OUFFODI3MzM1OTBGNDgzOUBxcS5zb2h1LmNvbXw|467cc16fdc|V1XZsPtwx8hgwzYqJq_PGPkajrYwNzwUIX5JpZ2Kxi4W3sm32Et2PVjqcTy0JWMYxMlcOHWQ92FFzF49Yg81x7kF_rguHDu60Up5IkK_FGyRcX5Umllq5hKcQuHSeko2dxku0kUjxVPmbHzVQ8Mr5v2et6n9zt0hmwPfrb-VZI4&code1=bc665c074abcb1eba138a59cd77299d5&code2=3a503c1740e8485a6212620eca13c8d9&code=803910bfb22162357f5fa66ece9d3f8b&s=1525855366479&lastdo
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+
+main=0&ru=http%3A%2F%2Fprofile.pinyin.sogou.com%2F%3Fstatus%3D0 HTTP/1.1
+User-Agent: sogou_ime/8.9.0.2180
+Host: account.sogou.com
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+
+GET http://config.pinyin.sogou.com/api/clubface/get_info.php?h=B3831F665F58AC006C342EFD4E460D21&v=8.9.0.2180 HTTP/1.1
+Cookie: pprdig=V1XZsPtwx8hgwzYqJq_PGPkajrYwNzwUIX5JpZ2Kxi4W3sm32Et2PVjqcTy0JWMYxMlcOHWQ92FFzF49Yg81x7kF_rguHDu60Up5IkK_FGyRcX5Umllq5hKcQuHSeko2dxku0kUjxVPmbHzVQ8Mr5v2et6n9zt0hmwPfrb-VZI4; ppinf=5|1525855366|1527064966|dHJ1c3Q6MToxfGNsaWVudGlkOjQ6MTA0NHx1bmlxbmFtZTozMjoxMUEzMTNDMDdBMENFNEY4OUFFODI3MzM1OTBGNDgzOXxjcnQ6MTA6MTUyNTg1NTM2NnxyZWZuaWNrOjA6fHVzZXJpZDo0NDoxMUEzMTNDMDdBMENFNEY4OUFFODI3MzM1OTBGNDgzOUBxcS5zb2h1LmNvbXw
+User-Agent: sogou_ime/8.9.0.2180
+Host: config.pinyin.sogou.com
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+
+GET http://www.hit.edu.cn/images2010/more.gif HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+
+GET http://8.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c02dd1f2-400a-4b61-a6ce-c683cdda6e80?P1=1525861075&P2=301&P3=2&P4=7jjRJG5Zh4mIcy633RAZTMrroPuFh864jrwvFun%2bdZE%3d HTTP/1.1
+Cache-Control: no-cache
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Accept: */*
+Range: bytes=138412032-139460607
+User-Agent: Microsoft-Delivery-Optimization/10.0
+MS-CV: mI7rxJ/jUk2jRQ3J.0.3.2.4.1.0.23.2.3.23.1.5
+Content-Length: 0
+Host: 8.tlu.dl.delivery.mp.microsoft.com
+
+GET http://www.hit.edu.cn/images2010/more.gif HTTP/1.1
+Host: www.hit.edu.cn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: _ga=GA1.3.552187814.1501989050; __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=31916071.974883321.1525526423.1525526423.1525533286.2; JSESSIONID=72627A3BBC3733DDAA41FF467C0622A7
+
+GET http://suggestion.baidu.com/su?wd=&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=t&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://today.hit.edu.cn/ HTTP/1.1
+Host: today.hit.edu.cn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: bdshare_firstime=1492837660937; lastVisit=%A1%BE%D6%BE%C7%E0%B4%BA%A1%BF%D5%D0%C4%BC%B5%DA%B0%CB%BD%EC%D6%D0%B9%FA%B4%F3%D1%A7%C9%FA%CE%EF%C0%ED%D1%A7%CA%F5%BE%BA%C8%FC%D6%BE%D4%B8%D5%DF%7C%2Fnews%2F2017%2F06%2D26%2F4835919060RL0%2Ehtm%7C2017%2D7%2D3+15%3A07%3A44%2C%B9%D8%D3%DA%BE%D9%B0%EC%B9%FE%B6%FB%B1%F5%B9%A4%D2%B5%B4%F3%D1%A7%B5%DA%C8%FD%BD%EC%C9%FA%BB%EE%BC%BC%C4%DC%B4%F3%C8%FC%B5%C4%CD%A8%D6%AA%7C%2Fnews%2F2017%2F05%2D12%2F652954150RL0%2Ehtm%7C2017%2D5%2D20+13%3A21%3A37%2C%B9%D8%D3%DA%B7%C0%B7%B6windows%B8%DF%CE%A3%C2%A9%B6%B4%B5%C4%CD%A8%D6%AA%7C%2Fnews%2F2017%2F04%2D16%2F6161021140RL1%2Ehtm%7C2017%2D4%2D22+13%3A07%3A37%2C; _gGET http://suggestion.baidu.com/su?wd=to&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://suggestion.baidu.com/su?wd=tod&action=opensearch&ie=UTF-8 HTTP/1.1
+Host: suggestion.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
+GET http://today.hit.edu.cn/ HTTP/1.1a=GA1.3.552187814.1501989050; __utmz=161430584.1524895472.6.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=161430584.368523029.1492837238.1525526124.1525533145.14; __utma=31916071.974883321.1525526423.1525526423.1525533286.2
+If-None-Match: "a64940594ee4d31:2730e"
+If-Modified-Since: Sat, 05 May 2018 08:52:07 GMT
+
+
+Host: today.hit.edu.cn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: bdshare_firstime=1492837660937; lastVisit=%A1%BE%D6%BE%C7%E0%B4%BA%A1%BF%D5%D0%C4%BC%B5%DA%B0%CB%BD%EC%D6%D0%B9%FA%B4%F3%D1%A7%C9%FA%CE%EF%C0%ED%D1%A7%CA%F5%BE%BA%C8%FC%D6%BE%D4%B8%D5%DF%7C%2Fnews%2F2017%2F06%2D26%2F4835919060RL0%2Ehtm%7C2017%2D7%2D3+15%3A07%3A44%2C%B9%D8%D3%DA%BE%D9%B0%EC%B9%FE%B6%FB%B1%F5%B9%A4%D2%B5%B4%F3%D1%A7%B5%DA%C8%FD%BD%EC%C9%FA%BB%EE%BC%BC%C4%DC%B4%F3%C8%FC%B5%C4%CD%A8%D6%AA%7C%2Fnews%2F2017%2F05%2D12%2F652954150RL0%2Ehtm%7C2017%2D5%2D20+13%3A21%3A37%2C%B9%D8%D3%DA%B7%C0%B7%B6windows%B8%DF%CE%A3%C2%A9%B6%B4%B5%C4%CD%A8%D6%AA%7C%2Fnews%2F2017%2F04%2D16%2F6161021140RL1%2Ehtm%7C2017%2D4%2D22+13%3A07%3A37%2C; _ga=GA1.3.552187814.1501989050; __utmz=161430584.1524895472.6.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utmz=31916071.1525526423.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=161430584.368523029.1492837238.1525526124.1525533145.14; __utma=31916071.974883321.1525526423.1525526423.1525533286.2
+
+CONNECT android.clients.google.com:443 HTTP/1.1GET http://znsv.baidu.com/customer_search/api/js?sid=1623931615758899713&plate_url=http%3A%2F%2Ftoday.hit.edu.cn%2F&t=423849 HTTP/1.1
+Host: znsv.baidu.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Accept: */*
+Referer: http://today.hit.edu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: BIDUPSID=26B56D67B2CE4DECD98078DB6BEA4BCD; BAIDUID=29B29EB3F737DB26BE4E1AFC89FC417C:FG=1; PSTM=1506845968; BDORZ=FFFB88E999055A3F8A630C64834BD6D0
+
